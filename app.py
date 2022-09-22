@@ -515,8 +515,8 @@ if __name__ == "__main__":
 
     # настройка данных пользователя
     person = OwnerPerson()
-    person.name = "Tanya"
-    person.home_city = "Yekaterinburg"
+    person.name = "Sir"
+    person.home_city = "Togliatti"
     person.native_language = "ru"
     person.target_language = "en"
 
